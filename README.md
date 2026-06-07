@@ -19,9 +19,10 @@ A content-based Movie Recommendation System built using **Python, Streamlit, Mac
 * Requests
 * Scikit-learn
 * TMDB API
-
+  
 ## Images
-<img width="900" alt="Movie Recommendation App" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000da87206a87febe62ec410b9&ts=494672&p=fs&cid=1&sig=eb331d226b321ed56fa05d30c21a84041c35f69e3e480cf3cd10d01a120d9ee6&v=0">
+<img src="C:\Users\AARTI\OneDrive\Pictures\Screenshots\Screenshot 2026-06-07 141434.png" alt="Project Image" width="500">
+
 ## 📂 Project Structure
 
 ```bash
