@@ -22,6 +22,8 @@ A content-based Movie Recommendation System built using **Python, Streamlit, Mac
   
 ## Images
 <img src="C:\Users\AARTI\OneDrive\Pictures\Screenshots\Screenshot 2026-06-07 141434.png" alt="Project Image" width="500">
+<img width="942" height="846" alt="Screenshot 2026-06-07 141434" src="https://github.com/user-attachments/assets/ada4424e-a6b3-4df8-b82a-8e3b562d5b12" />
+
 
 ## 📂 Project Structure
 
